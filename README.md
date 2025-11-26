@@ -32,8 +32,8 @@ Design a wireframe diagram for a generic application or website using Balsamiq, 
 22. Add a "Place Order" or "Submit" button at the bottom
 
 ## Output:
-![image](https://github.com/user-attachments/assets/20711bcc-bcf2-4d2c-b04a-ab1110a0c3d2)
 
+[UIUX_EXP_04 (3).pdf](https://github.com/user-attachments/files/23760904/UIUX_EXP_04.3.pdf)
 
 ## Result:
 To Design a wireframe diagram for a generic application or website using Balsamiq is completed
